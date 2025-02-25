@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shop/static/css/main.b8a23811.css",
+    "main.js": "/Shop/static/js/main.a4ac880a.js",
+    "static/media/gostinaia_mebel_interer_97193_3840x2160.jpg": "/Shop/static/media/gostinaia_mebel_interer_97193_3840x2160.495b2466858aa4206195.jpg",
+    "index.html": "/Shop/index.html",
+    "main.b8a23811.css.map": "/Shop/static/css/main.b8a23811.css.map",
+    "main.a4ac880a.js.map": "/Shop/static/js/main.a4ac880a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a23811.css",
+    "static/js/main.a4ac880a.js"
+  ]
+}
